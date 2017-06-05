@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginLP3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
